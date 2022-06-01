@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @raghav511
-- 👀 I’m interested in Data Engineering and Machine Learning
-- 🌱 I’m currently learning Data Analysis 
-- 💞️ I’m looking to collaborate on Data Engineering
+- 👀 I’m interested in creating large scale data pipelines
 - 📫 How to reach me linkedIn search (Raghavendra Raju Ballur)
 
 <!---
